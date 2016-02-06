@@ -1,0 +1,4 @@
+
+    Dir.chdir APP_ROOT do
+  # This script is a starting point to setup your application.
+   end
